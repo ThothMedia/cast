@@ -1,4 +1,4 @@
-module github.com/ThothMedia/cast
+module github.com/wisesight/cast
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
