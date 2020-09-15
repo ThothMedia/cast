@@ -1,4 +1,5 @@
 cast
+Used in ZOCIAL EYE [zocialeye](https://github.com/wisesight/zocialeye)
 ====
 [![GoDoc](https://godoc.org/github.com/spf13/cast?status.svg)](https://godoc.org/github.com/spf13/cast)
 [![Build Status](https://api.travis-ci.org/spf13/cast.svg?branch=master)](https://travis-ci.org/spf13/cast)
